@@ -4,8 +4,10 @@ Python code solutions to assignments for STA314H1F: Statistical Methods for Mach
 
 HW1
 
-This is an implementation of K nearest neighbors on a dataset of "fake news" and "real news" headlines from various publications. The data set was compiled from the two following:
+This is an implementation of K nearest neighbors on a dataset of "fake news" and "real news" headlines from various publications. The data set was compiled from the two following datasets:
+
 https://www.kaggle.com/mrisdal/fake-news/data 
+
 https://www.kaggle.com/therohk/million-headlines
 
 HW2
